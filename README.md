@@ -22,4 +22,4 @@ Po uruchomieniu w folderze `results/` zostaną zapisane obrazy: mapa GDOP i wyni
 
 ## Autor
 
-Jan Kowalski, grupa 212MCA, AMW 2025
+Maciej Lutynski, grupa 212MCA, AMW 2025
